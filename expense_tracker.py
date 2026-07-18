@@ -40,6 +40,5 @@ while True:
         print("Invalid choice. Please try again.")"""
 
 
-with open("expenses.txt", "a") as file:
-            file.write(f"{description}, {amount}\n")
+
                  
